@@ -4,12 +4,21 @@
 </p>
 
 <div align="center">
-  <h1>Hi there, I'm <span style="color: #00BFFF;">Aryan Siddiquei</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+  <h1>
+    Hi there, I'm <span style="color: #00BFFF;">Aryan Siddiquei</span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  </h1>
+</div>
 
-<!-- SUBTITLE -->
-<h3 align="center">
-  Android Developer • Data Enthusiast • Problem Solver
-</h3>
+<!-- ✅ TYPING ANIMATION (CENTERED & ADDED) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F8CFF&center=true&vCenter=true&width=500&lines=🚀+Android+Developer;📱+Flutter+Learner;💡+AI+%26+ML+Enthusiast;📊+Data+Analyst" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
 <!-- GIF -->
 <p align="center">
@@ -68,8 +77,5 @@
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
-
----
-
 
 <!-- END -->
