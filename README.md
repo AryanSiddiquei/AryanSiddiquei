@@ -30,9 +30,9 @@
 ## 🚀 About Me  
 
 - 🎓 **B.Tech (CSE) Graduate**
-- 📱 Currently learning **Android Development (Kotlin)**  
-- 📊 Skilled in **Python, SQL, Power BI & Data Analysis**  
-- 🧠 Interested in **Machine Learning & Real-world problem solving**  
+* 📱 Passionate **Android Developer** specializing in **Kotlin**.
+* 🚀 Building scalable Android apps using **MVVM, Room database, Retrofit, Coroutines, Pagination **.
+* 💡 Continuously learning modern Android technologies and best practices to create high-quality mobile applications.
 - 💡 Love turning data & ideas into meaningful solutions  
 
 ---
