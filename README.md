@@ -29,11 +29,11 @@
 
 ## 🚀 About Me  
 
-- 🎓 **B.Tech (CSE) Graduate**
+* 🎓 **B.Tech (Computer Science & Engineering) Graduate**
 * 📱 Passionate **Android Developer** specializing in **Kotlin**.
-* 🚀 Building scalable Android apps using **MVVM, Room database, Retrofit, Coroutines, Pagination **.
-* 💡 Continuously learning modern Android technologies and best practices to create high-quality mobile applications.
-- 💡 Love turning data & ideas into meaningful solutions  
+* 🚀 Building scalable Android applications using **MVVM, Room Database, Retrofit, Coroutines, and Paging 3**.
+* 🧩 Experienced in designing clean, responsive UIs and implementing modern Android architecture.
+* 💡 Continuously learning the latest Android technologies and best practices to build high-quality mobile applications.
 
 ---
 
